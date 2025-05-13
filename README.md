@@ -1,7 +1,7 @@
 # Data Analysis Project
 
 ## Overview
-This repository contains the implementation and analysis for our data science project. For detailed information about the methodology, results, and conclusions, please refer to the accompanying `paper.pdf` file.
+This repository contains the implementation and analysis for our data mining project. For detailed information about the methodology, results, and conclusions, please refer to the accompanying `paper.pdf` file.
 
 ## Project Structure
 ```
@@ -67,9 +67,3 @@ For a complete understanding of the project, methodology, and results:
 - Machine Learning: Scikit-learn, XGBoost
 - Visualization: Matplotlib, Plotly
 
-## License
-[Specify your license here]
-
-## Contributors
-- Student ID: 150210324
-- Student ID: 150210329
